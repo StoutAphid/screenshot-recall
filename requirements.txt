@@ -1,0 +1,9 @@
+fastapi==0.115.12
+uvicorn==0.34.2
+httpx==0.28.1
+numpy==2.2.5
+Pillow==11.2.1
+watchdog==6.0.0
+rapidocr==3.2.0
+onnxruntime==1.22.0
+pytest==8.3.5
